@@ -1,0 +1,5 @@
+c:\users\priya\documents\visual studio 2010\Projects\DrillDownChartDemo\DrillDownChartDemo\bin\DrillDownChartDemo.dll
+c:\users\priya\documents\visual studio 2010\Projects\DrillDownChartDemo\DrillDownChartDemo\bin\DrillDownChartDemo.pdb
+c:\users\priya\documents\visual studio 2010\Projects\DrillDownChartDemo\DrillDownChartDemo\obj\Debug\ResolveAssemblyReference.cache
+c:\users\priya\documents\visual studio 2010\Projects\DrillDownChartDemo\DrillDownChartDemo\obj\Debug\DrillDownChartDemo.dll
+c:\users\priya\documents\visual studio 2010\Projects\DrillDownChartDemo\DrillDownChartDemo\obj\Debug\DrillDownChartDemo.pdb
